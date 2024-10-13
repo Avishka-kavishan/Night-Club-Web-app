@@ -10,7 +10,7 @@ function Homepage() {
     <div className={style.div}>
       <h1>THE RHYTHM OF LIFE! <br/> THE CREATEST HITS <br/>FOR YOUR PLEASURE!
       </h1>
-    </div>
+    </div>gdg
     </section>
     </>
   )
