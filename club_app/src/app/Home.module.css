@@ -1,0 +1,6 @@
+.section{
+    background: transparent url('/image/newback.svg');
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+}
